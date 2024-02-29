@@ -7,8 +7,6 @@
 //5 AND 1 = 1
 //Hence the code follows
 
-package BitWise;
-
 import java.util.*;
 
 public class OddEven {
